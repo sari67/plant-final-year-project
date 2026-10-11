@@ -1,0 +1,2899 @@
+[
+    {
+        "timestamp": "2026-04-06 11:27:18",
+        "disease": "Corn rust leaf",
+        "severity": 2598.504814437073,
+        "status": "CRITICAL (Loss Risk)"
+    },
+    {
+        "timestamp": "2026-04-06 11:32:03",
+        "disease": "Chilli_cercospora",
+        "severity": 9.613491091031175,
+        "status": "MILD (Early)"
+    },
+    {
+        "timestamp": "2026-04-06 11:32:11",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 2.011192794408741,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-06 11:38:28",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 2.011192794408741,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-06 11:41:00",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 2.011192794408741,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-06 11:45:35",
+        "disease": "Unknown",
+        "severity": 15.463688285623112,
+        "status": "MILD (Early)"
+    },
+    {
+        "timestamp": "2026-04-06 11:51:07",
+        "disease": "Chilli_cercospora",
+        "severity": 9.614089488136143,
+        "status": "MILD (Early)"
+    },
+    {
+        "timestamp": "2026-04-06 12:01:26",
+        "disease": "Okra healthy",
+        "severity": 4.250442753715588,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-06 12:01:44",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 1.948745328170854,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-06 12:52:38",
+        "disease": "Unknown",
+        "severity": 588797.0560147199,
+        "status": "CRITICAL (Loss Risk)"
+    },
+    {
+        "timestamp": "2026-04-06 12:52:51",
+        "disease": "Corn rust leaf",
+        "severity": 84562.44714847054,
+        "status": "CRITICAL (Loss Risk)"
+    },
+    {
+        "timestamp": "2026-04-06 12:57:58",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 2.011192794408741,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-06 14:01:52",
+        "disease": "Corn leaf blight",
+        "severity": 33730000000.0,
+        "status": "CRITICAL (Loss Risk)"
+    },
+    {
+        "timestamp": "2026-04-06 14:02:11",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 4.440107589495812,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-06 14:17:02",
+        "disease": "Chilli_nutritional",
+        "severity": 93.1498651117264,
+        "status": "CRITICAL (Loss Risk)"
+    },
+    {
+        "timestamp": "2026-04-06 14:17:12",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 1.9985175612695656,
+        "status": "MILD (Early Infection)"
+    },
+    {
+        "timestamp": "2026-04-06 14:17:22",
+        "disease": "Chilli_cercospora",
+        "severity": 9.25748600417981,
+        "status": "MILD (Early Infection)"
+    },
+    {
+        "timestamp": "2026-04-06 14:17:33",
+        "disease": "Okra healthy",
+        "severity": 4.224331319374576,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-06 14:19:05",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 4.280311153151472,
+        "status": "MILD (Early Infection)"
+    },
+    {
+        "timestamp": "2026-04-06 14:19:13",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 53.63693520552996,
+        "status": "SEVERE (Advanced)"
+    },
+    {
+        "timestamp": "2026-04-06 14:19:27",
+        "disease": "Pumpkin Healthy Leaf",
+        "severity": 4.048354823026271,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-06 14:19:35",
+        "disease": "Corn leaf blight",
+        "severity": 99.65982393001781,
+        "status": "CRITICAL (Loss Risk)"
+    },
+    {
+        "timestamp": "2026-04-06 14:19:51",
+        "disease": "Unknown",
+        "severity": 99.42576562511947,
+        "status": "CRITICAL (Loss Risk)"
+    },
+    {
+        "timestamp": "2026-04-06 14:20:02",
+        "disease": "Corn leaf blight",
+        "severity": 75.29811117129593,
+        "status": "SEVERE (Advanced)"
+    },
+    {
+        "timestamp": "2026-04-06 14:21:58",
+        "disease": "Corn leaf blight",
+        "severity": 25.610876445402532,
+        "status": "MODERATE (Active)"
+    },
+    {
+        "timestamp": "2026-04-06 14:22:22",
+        "disease": "Chilli_cercospora",
+        "severity": 11.239188899409525,
+        "status": "MILD (Early Infection)"
+    },
+    {
+        "timestamp": "2026-04-06 14:22:40",
+        "disease": "Unknown",
+        "severity": 6.398104265031241,
+        "status": "MILD (Early Infection)"
+    },
+    {
+        "timestamp": "2026-04-06 14:22:55",
+        "disease": "Pumpkin Healthy Leaf",
+        "severity": 30.170802192753076,
+        "status": "MILD (Check HSV)"
+    },
+    {
+        "timestamp": "2026-04-06 14:39:19",
+        "disease": "Chilli_cercospora",
+        "severity": 9.458821734389401,
+        "status": "MILD (Early Infection)"
+    },
+    {
+        "timestamp": "2026-04-06 14:41:37",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 3.485309924602056,
+        "status": "MILD (Early Infection)"
+    },
+    {
+        "timestamp": "2026-04-06 14:41:45",
+        "disease": "Chilli_powdery mildew",
+        "severity": 23.752085754757353,
+        "status": "MODERATE (Active)"
+    },
+    {
+        "timestamp": "2026-04-06 14:41:55",
+        "disease": "Unknown",
+        "severity": 33.42949412831774,
+        "status": "MODERATE (Active)"
+    },
+    {
+        "timestamp": "2026-04-06 14:42:03",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 1.9411511198579527,
+        "status": "MILD (Early Infection)"
+    },
+    {
+        "timestamp": "2026-04-06 14:42:08",
+        "disease": "Okra healthy",
+        "severity": 4.224331319374576,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-06 14:42:17",
+        "disease": "Pumpkin Healthy Leaf",
+        "severity": 4.048354823026271,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-07 11:57:55",
+        "disease": "Unknown",
+        "severity": 3.2875124206509785
+    },
+    {
+        "timestamp": "2026-04-07 12:03:32",
+        "disease": "Brinjal Insect Pest Disease",
+        "severity": 4.364014759271571
+    },
+    {
+        "timestamp": "2026-04-07 12:03:45",
+        "disease": "Brinjal Healthy Leaf",
+        "severity": 17.75988723440623
+    },
+    {
+        "timestamp": "2026-04-07 12:04:08",
+        "disease": "Brinjal Insect Pest Disease",
+        "severity": 9.458821734389401
+    },
+    {
+        "timestamp": "2026-04-07 12:18:33",
+        "disease": "Chilli_cercospora",
+        "severity": 6.637276137743345
+    },
+    {
+        "timestamp": "2026-04-07 12:18:39",
+        "disease": "Chilli_healthy",
+        "severity": 4.224331319374576
+    },
+    {
+        "timestamp": "2026-04-07 12:18:47",
+        "disease": "Chilli_healthy",
+        "severity": 4.048354823026271
+    },
+    {
+        "timestamp": "2026-04-07 12:18:54",
+        "disease": "Chilli_cercospora",
+        "severity": 9.25748600417981
+    },
+    {
+        "timestamp": "2026-04-07 12:19:05",
+        "disease": "Chilli_nutritional",
+        "severity": 1.9985175612695656
+    },
+    {
+        "timestamp": "2026-04-07 12:19:24",
+        "disease": "Chilli_cercospora",
+        "severity": 6.637276137743345
+    },
+    {
+        "timestamp": "2026-04-07 17:01:47",
+        "disease": "\u26a0\ufe0f INCORRECT CROP? (Looks like Corn)",
+        "severity": 0.0
+    },
+    {
+        "timestamp": "2026-04-07 17:02:12",
+        "disease": "Okra healthy",
+        "severity": 4.224331319374576
+    },
+    {
+        "timestamp": "2026-04-07 17:02:21",
+        "disease": "\u26a0\ufe0f INCORRECT CROP? (Looks like Chilli)",
+        "severity": 0.0
+    },
+    {
+        "timestamp": "2026-04-07 17:20:04",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 1.9411511198579527
+    },
+    {
+        "timestamp": "2026-04-07 17:20:19",
+        "disease": "Pumpkin Downy Mildew",
+        "severity": 14.045981255825795
+    },
+    {
+        "timestamp": "2026-04-07 17:20:26",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 31.249570416136862
+    },
+    {
+        "timestamp": "2026-04-07 17:20:37",
+        "disease": "\u26a0\ufe0f INCORRECT CROP? (Looks like Chilli)",
+        "severity": 0.0
+    },
+    {
+        "timestamp": "2026-04-07 17:20:43",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 99.97760755072883
+    },
+    {
+        "timestamp": "2026-04-07 17:20:52",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 53.63693520552996
+    },
+    {
+        "timestamp": "2026-04-07 17:21:01",
+        "disease": "Pumpkin Downy Mildew",
+        "severity": 0.0
+    },
+    {
+        "timestamp": "2026-04-07 19:10:26",
+        "disease": "\u26a0\ufe0f INCORRECT CROP? (Looks like Corn)",
+        "severity": 0.0
+    },
+    {
+        "timestamp": "2026-04-07 19:10:30",
+        "disease": "Chilli_nutritional",
+        "severity": 98.5608505101762
+    },
+    {
+        "timestamp": "2026-04-07 19:10:45",
+        "disease": "\u26a0\ufe0f INCORRECT CROP? (Looks like Corn)",
+        "severity": 0.0
+    },
+    {
+        "timestamp": "2026-04-07 19:10:58",
+        "disease": "Chilli_cercospora",
+        "severity": 4.364014759271571
+    },
+    {
+        "timestamp": "2026-04-07 19:11:09",
+        "disease": "Chilli_nutritional",
+        "severity": 24.74222522563795
+    },
+    {
+        "timestamp": "2026-04-07 20:12:22",
+        "disease": "\u26a0\ufe0f INCORRECT CROP? (Looks like Chilli)",
+        "severity": 0.0
+    },
+    {
+        "timestamp": "2026-04-07 20:12:38",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 29.947697247905925
+    },
+    {
+        "timestamp": "2026-04-07 20:22:01",
+        "disease": "\u26a0\ufe0f INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 0.0
+    },
+    {
+        "timestamp": "2026-04-07 20:23:55",
+        "disease": "Okra Yellow_vein_mosaic_virus",
+        "severity": 24.24771512303579
+    },
+    {
+        "timestamp": "2026-04-07 20:29:50",
+        "disease": "\u26a0\ufe0f INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 0.0
+    },
+    {
+        "timestamp": "2026-04-07 20:29:58",
+        "disease": "Okra healthy",
+        "severity": 7.458750337985888
+    },
+    {
+        "timestamp": "2026-04-07 21:32:25.019063",
+        "crop": "Pumpkin",
+        "disease": "Pumpkin Healthy Leaf",
+        "severity": 18.782144951808007
+    },
+    {
+        "timestamp": "2026-04-07 21:57:07.879345",
+        "crop": "Corn",
+        "disease": "\u26a0\ufe0f INCORRECT SPECIES? (Detected Pumpkin)",
+        "severity": 0.0
+    },
+    {
+        "timestamp": "2026-04-07 22:52:12",
+        "disease": "\u26a0 INCORRECT CROP? (Looks like Chilli)",
+        "severity": 20.241647923610397,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-07 22:55:20",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 7.265144479232612,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-07 22:56:47",
+        "disease": "\u26a0 INCORRECT CROP? (Looks like Corn)",
+        "severity": 93.983375510448,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-07 23:09:48",
+        "disease": "\u26a0 INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 25.020468053753785,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-07 23:10:06",
+        "disease": "\u26a0 INCORRECT CROP? (Looks like Chilli)",
+        "severity": 12.772434402333687,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-07 23:10:19",
+        "disease": "\u26a0 INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 9.356820974933578,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-07 23:10:25",
+        "disease": "Okra healthy",
+        "severity": 5.127552319277499,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-07 23:13:52",
+        "disease": "\u26a0 INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 25.020468053753785,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-07 23:18:17",
+        "disease": "\u26a0 INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 25.020468053753785,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-07 23:19:45",
+        "disease": "\u26a0 INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 4.371352831539657,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-07 23:59:06",
+        "disease": "\u26a0 INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 25.020468053753785,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-07 23:59:17",
+        "disease": "Corn rust leaf",
+        "severity": 97.18235911664762,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-07 23:59:33",
+        "disease": "Unknown Plant",
+        "severity": 98.80948098948298,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 00:12:50",
+        "disease": "\u26a0 INCORRECT CROP? (Looks like Corn)",
+        "severity": 99.68900407133545,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 00:13:12",
+        "disease": "Chilli_cercospora",
+        "severity": 12.772434402333687,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 07:39:14",
+        "disease": "Corn leaf blight",
+        "severity": 99.20241755358535,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 07:42:18",
+        "disease": "Corn leaf blight",
+        "severity": 99.0401195531585,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 07:47:08",
+        "disease": "\u26a0 INCORRECT CROP? (Looks like Corn)",
+        "severity": 99.33466810334718,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 08:54:16",
+        "disease": "Corn leaf blight",
+        "severity": 99.92454728280465,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 08:54:27",
+        "disease": "\u26a0 INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 25.020468053753785,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 11:50:28",
+        "disease": "Corn rust leaf",
+        "severity": 99.99882229569785,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 11:51:06",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 58.62155196925082,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 11:51:15",
+        "disease": "\u26a0 INCORRECT CROP? (Looks like Chilli)",
+        "severity": 20.241647923610397,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 11:59:19",
+        "disease": "\u26a0 INCORRECT CROP? (Looks like Chilli)",
+        "severity": 11.027608871917957,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 13:16:52",
+        "disease": "\u26a0 INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 25.020468053753785,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 13:40:20",
+        "disease": "\u26a0 INCORRECT CROP? (Looks like Chilli)",
+        "severity": 11.027608871917957,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 13:40:29",
+        "disease": "\u26a0 INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 9.356820974933578,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 13:40:37",
+        "disease": "\u26a0 INCORRECT CROP? (Looks like Chilli)",
+        "severity": 12.772434402333687,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 14:41:13",
+        "disease": "\u26a0 INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 25.020468053753785,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 14:41:46",
+        "disease": "\u26a0 INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 25.020468053753785,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 14:42:03",
+        "disease": "\u26a0 INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 58.62155196925082,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 14:42:16",
+        "disease": "Unknown Plant",
+        "severity": 99.99359143174523,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 14:42:29",
+        "disease": "Corn leaf blight",
+        "severity": 99.87732744964778,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 17:21:38",
+        "disease": "\u26a0 INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 25.020468053753785,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 18:33:28",
+        "disease": "\u26a0 INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 25.020468053753785,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 18:58:10",
+        "disease": "Model not loaded",
+        "severity": 0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 18:58:54",
+        "disease": "Model not loaded",
+        "severity": 0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 18:59:10",
+        "disease": "Model not loaded",
+        "severity": 0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 20:24:41",
+        "disease": "\u00e2\u0161\u00a0 INCORRECT CROP? (Looks like Chilli)",
+        "severity": 12.772434402333687,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 20:48:56",
+        "disease": "\u00e2\u0161\u00a0 INCORRECT CROP? (Looks like Chilli)",
+        "severity": 30.95177927352847,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 20:49:54",
+        "disease": "\u00e2\u0161\u00a0 INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 34.05179808322381,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 21:48:22",
+        "disease": "Model not loaded",
+        "severity": 0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 22:00:52",
+        "disease": "Model not loaded",
+        "severity": 0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 22:01:03",
+        "disease": "Model not loaded",
+        "severity": 0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 22:01:22",
+        "disease": "Model not loaded",
+        "severity": 0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 22:01:39",
+        "disease": "Model not loaded",
+        "severity": 0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 22:01:58",
+        "disease": "Model not loaded",
+        "severity": 0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 22:02:34",
+        "disease": "Model not loaded",
+        "severity": 0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 22:04:27",
+        "disease": "Model not loaded",
+        "severity": 0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 22:06:48",
+        "disease": "Model not loaded",
+        "severity": 0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 22:18:45",
+        "disease": "Corn Gray leaf spot",
+        "severity": 30.42137907524436,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 22:19:15",
+        "disease": "Unknown Plant",
+        "severity": 99.99359143174523,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 22:19:26",
+        "disease": "INCORRECT CROP? (Looks like Okra)",
+        "severity": 5.127552319277499,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 22:19:59",
+        "disease": "Unknown Plant",
+        "severity": 78.95041173850117,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 22:20:21",
+        "disease": "Chilli_cercospora",
+        "severity": 69.98029410232647,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 22:20:44",
+        "disease": "INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 13.42114497691201,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 22:21:03",
+        "disease": "INCORRECT CROP? (Looks like Corn)",
+        "severity": 15.64436404034257,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 22:37:53",
+        "disease": "INCORRECT CROP? (Looks like Chilli)",
+        "severity": 78.95041173850117,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 22:50:49",
+        "disease": "INCORRECT CROP? (Looks like Chilli)",
+        "severity": 78.95041173850117,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 23:46:47",
+        "disease": "INCORRECT CROP? (Looks like Chilli)",
+        "severity": 78.95041173850117,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-08 23:51:37",
+        "disease": "INCORRECT CROP? (Looks like Okra)",
+        "severity": 5.127552319277499,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 00:29:56",
+        "disease": "INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 7.265144479232612,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 01:14:30",
+        "disease": "INCORRECT CROP? (Looks like Chilli)",
+        "severity": 9.703264549386411,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 01:22:17",
+        "disease": "Chilli_powdery mildew",
+        "severity": 23.752773837813766,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 01:25:51",
+        "disease": "INCORRECT CROP? (Looks like Chilli)",
+        "severity": 12.214650766420712,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 01:26:33",
+        "disease": "Chilli_cercospora",
+        "severity": 12.772434402333687,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 01:29:59",
+        "disease": "Pumpkin Bacterial Leaf Spot",
+        "severity": 26.403248079523863,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 01:33:55",
+        "disease": "INCORRECT CROP? (Looks like Chilli)",
+        "severity": 43.54395528335229,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 01:35:24",
+        "disease": "Chilli_cercospora",
+        "severity": 12.772434402333687,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 01:37:20",
+        "disease": "Okra Yellow_vein_mosaic_virus",
+        "severity": 52.214464751958275,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 01:48:51",
+        "disease": "Pumpkin Bacterial Leaf Spot",
+        "severity": 26.403248079523863,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 02:35:22",
+        "disease": "INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 4.371352831539657,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 02:36:46",
+        "disease": "INCORRECT CROP? (Looks like Okra)",
+        "severity": 5.127552319277499,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 02:41:42",
+        "disease": "Chilli_cercospora",
+        "severity": 9.703264549386411,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 08:06:02",
+        "disease": "INCORRECT CROP? (Looks like Chilli)",
+        "severity": 11.027608871917957,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 08:11:07",
+        "disease": "INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 26.403248079523863,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 08:28:39",
+        "disease": "Chilli_cercospora",
+        "severity": 9.703264549386411,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 08:37:24",
+        "disease": "INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 26.403248079523863,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 08:40:09",
+        "disease": "Pumpkin Bacterial Leaf Spot",
+        "severity": 26.403248079523863,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 10:26:27",
+        "disease": "INCORRECT CROP? (Looks like Chilli)",
+        "severity": 12.772434402333687,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 10:44:43",
+        "disease": "INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 26.403248079523863,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 11:31:21",
+        "disease": "Corn rust leaf",
+        "severity": 99.0697229310574,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 11:31:33",
+        "disease": "INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 4.371352831539657,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 11:31:57",
+        "disease": "Corn leaf blight",
+        "severity": 98.60591764041938,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 12:32:31",
+        "disease": "INCORRECT CROP? (Looks like Chilli)",
+        "severity": 23.752773837813766,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 12:32:40",
+        "disease": "INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 4.654988334830737,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 12:33:24",
+        "disease": "INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 58.62155196925082,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 12:33:35",
+        "disease": "INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 9.356820974933578,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 12:51:55",
+        "disease": "INCORRECT CROP? (Looks like Chilli)",
+        "severity": 63.36517333887688,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 12:52:40",
+        "disease": "INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 1.669099593858004,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 12:53:20",
+        "disease": "Pumpkin Healthy Leaf",
+        "severity": 8.428745534231476,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-09 12:53:48",
+        "disease": "Pumpkin Healthy Leaf",
+        "severity": 0.5974540713709688,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-09 12:54:34",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 50.92941792836807,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 12:54:52",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 25.015082758385105,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 12:56:05",
+        "disease": "Chilli_powdery mildew",
+        "severity": 23.752773837813766,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 12:56:53",
+        "disease": "INCORRECT CROP? (Looks like Okra)",
+        "severity": 97.60563380171713,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 12:57:31",
+        "disease": "INCORRECT CROP? (Looks like Okra)",
+        "severity": 73.80794241632655,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 13:04:49",
+        "disease": "INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 9.356820974933578,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 13:05:04",
+        "disease": "INCORRECT CROP? (Looks like Okra)",
+        "severity": 5.127552319277499,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 13:05:42",
+        "disease": "INCORRECT CROP? (Looks like Chilli)",
+        "severity": 98.6160477270131,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 13:07:34",
+        "disease": "Chilli_cercospora",
+        "severity": 12.772434402333687,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 13:07:55",
+        "disease": "INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 4.371352831539657,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 14:41:00",
+        "disease": "Corn_(maize)___healthy",
+        "severity": 0.04287836327096249,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-09 14:41:26",
+        "disease": "INCORRECT CROP? (Looks like Chilli)",
+        "severity": 43.051221139890835,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 14:42:16",
+        "disease": "INCORRECT CROP? (Looks like Chilli)",
+        "severity": 29.58865292287513,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 14:43:48",
+        "disease": "Pumpkin Healthy Leaf",
+        "severity": 7.8078210507141765,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-09 14:48:08",
+        "disease": "INCORRECT CROP? (Looks like Chilli)",
+        "severity": 58.554938851636315,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 14:54:45",
+        "disease": "INCORRECT CROP? (Looks like Chilli)",
+        "severity": 29.083403438595656,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 15:11:22",
+        "disease": "Corn leaf blight",
+        "severity": 63.100793967471866,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 15:11:32",
+        "disease": "Corn leaf blight",
+        "severity": 98.48035475825634,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 15:20:00",
+        "disease": "INVALID: NOT A PLANT/LEAF",
+        "severity": 99.196633473911,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 15:20:28",
+        "disease": "LOW CONFIDENCE SCAN",
+        "severity": 9.07960198998804,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 15:20:48",
+        "disease": "INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 14.337611485647614,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 15:21:20",
+        "disease": "INCORRECT CROP? (Looks like Chilli)",
+        "severity": 5.985238695256376,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 15:21:53",
+        "disease": "LOW CONFIDENCE SCAN",
+        "severity": 12.66246028741495,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 15:22:14",
+        "disease": "INVALID: NOT A PLANT/LEAF",
+        "severity": 99.9999999426934,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 15:22:57",
+        "disease": "LOW CONFIDENCE SCAN",
+        "severity": 11.099113821796,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 15:23:10",
+        "disease": "INCORRECT CROP? (Looks like Chilli)",
+        "severity": 25.894601230532317,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 15:23:58",
+        "disease": "Chilli_powdery mildew",
+        "severity": 58.429860886709996,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 15:26:56",
+        "disease": "INCORRECT CROP? (Looks like Chilli)",
+        "severity": 51.13918065851964,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 15:27:40",
+        "disease": "Corn rust leaf",
+        "severity": 24.17462124508123,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 15:56:42",
+        "disease": "Unknown Plant",
+        "severity": 1.4845341512985026,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 15:57:11",
+        "disease": "Corn rust leaf",
+        "severity": 65.49796384881137,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 15:57:25",
+        "disease": "INCORRECT CROP? (Looks like Pumpkin)",
+        "severity": 15.736812565807256,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 15:58:05",
+        "disease": "INVALID: NOT A PLANT/LEAF",
+        "severity": 98.23927160084092,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 15:59:01",
+        "disease": "LOW CONFIDENCE SCAN",
+        "severity": 7.47006612253924,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 15:59:41",
+        "disease": "Corn leaf blight",
+        "severity": 15.951023478600113,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:09:06",
+        "disease": "Unknown Plant",
+        "severity": 1.0820509433427774,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:09:25",
+        "disease": "LOW CONFIDENCE SCAN",
+        "severity": 7.191206863597858,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:10:27",
+        "disease": "LOW CONFIDENCE SCAN",
+        "severity": 0.5257669721730392,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:10:55",
+        "disease": "Unknown Plant",
+        "severity": 8.291024613160374,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:11:07",
+        "disease": "Unknown Plant",
+        "severity": 38.142026080851906,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:11:38",
+        "disease": "Corn leaf blight",
+        "severity": 0.6946630782476277,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:12:09",
+        "disease": "Corn leaf blight",
+        "severity": 15.951023478600113,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:12:26",
+        "disease": "Corn leaf blight",
+        "severity": 21.86178973620607,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:12:45",
+        "disease": "Unknown Plant",
+        "severity": 10.76823718169688,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:13:15",
+        "disease": "INCORRECT CROP? (Looks like Corn)",
+        "severity": 6.346181163805742,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:14:31",
+        "disease": "Corn leaf blight",
+        "severity": 8.415080222620022,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:15:05",
+        "disease": "LOW CONFIDENCE SCAN",
+        "severity": 8.942717434997201,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:16:12",
+        "disease": "Unknown Plant",
+        "severity": 57.05487814686315,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:19:42",
+        "disease": "LOW CONFIDENCE SCAN",
+        "severity": 8.192888056226929,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:20:20",
+        "disease": "Unknown Plant",
+        "severity": 5.579443805834458,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:21:48",
+        "disease": "Corn Gray leaf spot",
+        "severity": 41.174835956459766,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:22:07",
+        "disease": "INCORRECT CROP? (Looks like Corn)",
+        "severity": 97.73472792732947,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:22:31",
+        "disease": "INCORRECT CROP? (Looks like Corn)",
+        "severity": 22.798158268987052,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:23:07",
+        "disease": "INCORRECT CROP? (Looks like Corn)",
+        "severity": 30.907044966360335,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:23:19",
+        "disease": "Chilli_cercospora",
+        "severity": 17.701078893208894,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:29:17",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 94.35897426219593,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:29:49",
+        "disease": "UNKNOWN PLANT (Looks like Corn)",
+        "severity": 15.951023478600113,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:30:08",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 13.833300403494,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:30:31",
+        "disease": "Corn leaf blight",
+        "severity": 12.34059535232571,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:31:04",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 88.95434459169576,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:31:21",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 91.57657137609716,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:31:44",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 86.85305864675833,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:32:06",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 15.544180004754397,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:32:36",
+        "disease": "UNKNOWN PLANT (Looks like Corn)",
+        "severity": 4.004045418961307,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:33:07",
+        "disease": "UNKNOWN PLANT (Looks like Corn)",
+        "severity": 33.37692095404853,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:33:21",
+        "disease": "UNKNOWN PLANT (Looks like Corn)",
+        "severity": 8.874893198295867,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:33:33",
+        "disease": "Chilli_cercospora",
+        "severity": 1.9438909076605715,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 16:36:54",
+        "disease": "UNKNOWN PLANT (Looks like Pumpkin)",
+        "severity": 15.736812565807256,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 18:58:02",
+        "disease": "UNKNOWN PLANT (Looks like Chilli)",
+        "severity": 21.28830661227806,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 19:15:08",
+        "disease": "UNKNOWN PLANT (Looks like Chilli)",
+        "severity": 8.305133906950086,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 19:22:43",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 38.81636295671811,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 19:23:36",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 27.458725817845657,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 19:28:45",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 1.0820509433427774,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 19:30:09",
+        "disease": "UNKNOWN PLANT (Looks like Chilli)",
+        "severity": 8.305133906950086,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 19:31:58",
+        "disease": "Okra Predisposition",
+        "severity": 54.334581632211076,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 21:17:13",
+        "disease": "UNKNOWN PLANT (Looks like Chilli)",
+        "severity": 21.28830661227806,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 21:18:09",
+        "disease": "UNKNOWN PLANT (Looks like Chilli)",
+        "severity": 21.28830661227806,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-09 21:28:39",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 3.5100099434846697,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 05:54:40",
+        "disease": "SYSTEM ALERT: IRRELEVANT OBJECT DETECTED",
+        "severity": 19.37162748053515,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 05:59:15",
+        "disease": "Corn_(maize)___Common_rust_",
+        "severity": 4.662237553111715,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 06:03:45",
+        "disease": "Corn_(maize)___Common_rust_",
+        "severity": 39.15322979135886,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 06:04:59",
+        "disease": "Corn_(maize)___Common_rust_",
+        "severity": 0.6247496129117189,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 06:07:09",
+        "disease": "SYSTEM ALERT: IRRELEVANT OBJECT DETECTED",
+        "severity": 19.37162748053515,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 06:07:42",
+        "disease": "SYSTEM ALERT: IRRELEVANT OBJECT DETECTED",
+        "severity": 19.95396718493063,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 06:09:04",
+        "disease": "SYSTEM ALERT: IRRELEVANT OBJECT DETECTED",
+        "severity": 24.750622563913076,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 06:14:07",
+        "disease": "SYSTEM ALERT: IRRELEVANT OBJECT DETECTED",
+        "severity": 13.295443361469456,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 06:17:36",
+        "disease": "Corn_(maize)___Common_rust_",
+        "severity": 1.8147002503917018,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 06:21:13",
+        "disease": "Corn Gray leaf spot",
+        "severity": 3.6861256129711166,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 06:43:23",
+        "disease": "SYSTEM ALERT: IRRELEVANT OBJECT DETECTED",
+        "severity": 19.37162748053515,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 06:47:23",
+        "disease": "Corn_(maize)___Common_rust_",
+        "severity": 14.390472603008645,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 06:48:06",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 14.37640597844599,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 06:48:37",
+        "disease": "SYSTEM ALERT: IRRELEVANT OBJECT DETECTED",
+        "severity": 29.028309286624538,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 06:48:57",
+        "disease": "Pumpkin Healthy Leaf",
+        "severity": 8.591758589541355,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-10 06:49:20",
+        "disease": "Okra healthy",
+        "severity": 3.8224507374775887,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-10 06:53:13",
+        "disease": "Corn_(maize)___Common_rust_",
+        "severity": 0.6247496129117189,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 06:53:49",
+        "disease": "SYSTEM ALERT: IRRELEVANT OBJECT DETECTED",
+        "severity": 19.95396718493063,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 07:37:55",
+        "disease": "UNKNOWN PLANT (Looks like Chilli)",
+        "severity": 21.28830661227806,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 08:16:39",
+        "disease": "UNKNOWN PLANT (Looks like Okra)",
+        "severity": 3.8741513263128344,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 08:17:21",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 22.098335415625794,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 08:19:33",
+        "disease": "UNKNOWN PLANT / BLURRY SCAN",
+        "severity": 20.30601938365663,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 08:28:05",
+        "disease": "UNKNOWN PLANT (Looks like Chilli)",
+        "severity": 21.28830661227806,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 08:30:19",
+        "disease": "UNKNOWN PLANT (Looks like Pumpkin)",
+        "severity": 5.063067636312377,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 08:36:04",
+        "disease": "UNKNOWN PLANT (Looks like Chilli)",
+        "severity": 8.305133906950086,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 08:43:05",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 1.0820509433427774,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 08:50:25",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 3.5100099434846697,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 10:04:21",
+        "disease": "UNKNOWN PLANT (Looks like Pumpkin)",
+        "severity": 2.059219947763208,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 10:07:17",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 38.81636295671811,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 10:11:06",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 38.81636295671811,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 10:16:46",
+        "disease": "UNKNOWN PLANT (Looks like Pumpkin)",
+        "severity": 2.059219947763208,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 10:16:59",
+        "disease": "UNKNOWN PLANT (Looks like Chilli)",
+        "severity": 8.305133906950086,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 10:23:33",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 38.81636295671811,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 10:27:52",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 38.81636295671811,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 10:28:24",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 3.5100099434846697,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 10:28:42",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 22.098335415625794,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 10:28:58",
+        "disease": "UNKNOWN PLANT (Looks like Okra)",
+        "severity": 3.8741513263128344,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 10:29:12",
+        "disease": "UNKNOWN PLANT (Looks like Pumpkin)",
+        "severity": 5.063067636312377,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 10:29:42",
+        "disease": "UNKNOWN PLANT (Looks like Chilli)",
+        "severity": 8.305133906950086,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 10:36:55",
+        "disease": "UNKNOWN PLANT (Looks like Chilli)",
+        "severity": 7.712753685336728,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 11:31:48",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 63.9518413144817,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:13:47",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 99.37863951008885,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:14:20",
+        "disease": "Corn leaf blight",
+        "severity": 9.264014941421308,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:14:59",
+        "disease": "Corn leaf blight",
+        "severity": 1.456615940438167,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:15:50",
+        "disease": "Corn leaf blight",
+        "severity": 9.817221678353206,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:16:06",
+        "disease": "UNKNOWN PLANT (Looks like Corn)",
+        "severity": 10.054112230409668,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:16:30",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 12.540156891809112,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:16:41",
+        "disease": "UNKNOWN PLANT (Looks like Corn)",
+        "severity": 24.999302033176686,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:17:09",
+        "disease": "UNKNOWN PLANT (Looks like Corn)",
+        "severity": 26.00184275926742,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:17:26",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 36.712548014189736,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:17:57",
+        "disease": "UNKNOWN PLANT (Looks like Corn)",
+        "severity": 11.942925879808486,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:18:24",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 38.81636295671811,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:18:41",
+        "disease": "Pumpkin Healthy Leaf",
+        "severity": 5.063067636312377,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-10 12:19:03",
+        "disease": "UNKNOWN PLANT / BLURRY SCAN",
+        "severity": 2.059219947763208,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:19:15",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 99.99999953271028,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:19:24",
+        "disease": "UNKNOWN PLANT / BLURRY SCAN",
+        "severity": 2.059219947763208,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:19:38",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 31.831831829753764,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:19:55",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 22.098335415625794,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:21:07",
+        "disease": "UNKNOWN PLANT (Looks like Chilli)",
+        "severity": 10.205056054177863,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:21:41",
+        "disease": "Chilli_mites_and_trips",
+        "severity": 10.205056054177863,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:22:01",
+        "disease": "UNKNOWN PLANT (Looks like Corn)",
+        "severity": 16.96325807849556,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:22:24",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 30.586502163235636,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:23:10",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 99.34579429967681,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:23:53",
+        "disease": "Chilli_mites_and_trips",
+        "severity": 3.6056186564177106,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:24:40",
+        "disease": "UNKNOWN PLANT (Looks like Okra)",
+        "severity": 35.971755696970206,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:28:56",
+        "disease": "UNKNOWN PLANT (Looks like Pumpkin)",
+        "severity": 2.059219947763208,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:29:08",
+        "disease": "Pumpkin Healthy Leaf",
+        "severity": 5.063067636312377,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-10 12:29:27",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 3.4729666440810436,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:29:51",
+        "disease": "Chilli_nutritional",
+        "severity": 25.894601230532317,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 12:30:12",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 23.61937327247624,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 15:23:38",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 98.55282185448216,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 15:23:52",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 94.82758600252676,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 15:56:52",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 99.99999998626751,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 15:57:09",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 99.90147773408722,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 15:57:39",
+        "disease": "Pumpkin Healthy Leaf",
+        "severity": 5.063067636312377,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-10 15:58:01",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 1.0820509433427774,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 15:59:01",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 3.4729666440810436,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 16:01:29",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 3.4729666440810436,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-10 16:01:59",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 1.0820509433427774,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 09:50:56",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 3.4729666440810436,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 09:51:33",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 1.0820509433427774,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 10:28:04",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 3.4729666440810436,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 10:41:47",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 21.713395182768007,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 10:42:07",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 15.739812959251836,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 10:42:25",
+        "disease": "Pumpkin Healthy Leaf",
+        "severity": 12.410399350881397,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-11 10:42:39",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 47.3630087682615,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 10:43:07",
+        "disease": "UNKNOWN PLANT (Looks like Chilli)",
+        "severity": 15.587129596974494,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 10:43:31",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 2.366600855114342,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 10:43:49",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 6.311530583962363,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 10:45:47",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 99.29780611857588,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 10:46:13",
+        "disease": "UNKNOWN PLANT (Looks like Pumpkin)",
+        "severity": 6.311530583962363,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 10:54:57",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 98.98967985867915,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 10:55:22",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 99.44187668963112,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 10:55:55",
+        "disease": "UNKNOWN PLANT (Looks like Pumpkin)",
+        "severity": 12.410399350881397,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 10:56:14",
+        "disease": "Chilli_nutritional",
+        "severity": 15.587129596974494,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 10:56:36",
+        "disease": "Chilli_cercospora",
+        "severity": 11.80056108511856,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 10:56:53",
+        "disease": "Chilli_cercospora",
+        "severity": 4.60399015611204,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:06:24",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 53.39275007061005,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:06:47",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 42.497774093594884,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:07:09",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 69.81369367079667,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:07:33",
+        "disease": "Pumpkin Bacterial Leaf Spot",
+        "severity": 48.66241590505464,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:07:55",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 44.00803323539137,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:08:14",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 29.230998693956558,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:08:26",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 16.649730978807636,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:09:28",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 47.3630087682615,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:09:35",
+        "disease": "UNKNOWN PLANT (Looks like Okra)",
+        "severity": 3.8961691859101117,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:09:45",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 2.366600855114342,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:10:05",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 21.713395182768007,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:15:22",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 42.497774093594884,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:15:37",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 53.39275007061005,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:16:16",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 15.739812959251836,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:16:25",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 6.311530583962363,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:16:38",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 21.713395182768007,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:18:18",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 3.4729666440810436,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:31:40",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 53.39275007061005,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:31:58",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 16.649730978807636,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:32:11",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 42.497774093594884,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:32:37",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 44.00803323539137,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:32:56",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 69.81369367079667,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:33:15",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 63.52008183883857,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:36:17",
+        "disease": "UNKNOWN PLANT (Looks like Pumpkin)",
+        "severity": 53.39275007061005,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:36:29",
+        "disease": "UNKNOWN PLANT (Looks like Okra)",
+        "severity": 68.35238770271249,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:41:33",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 53.39275007061005,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:41:57",
+        "disease": "Pumpkin Healthy Leaf",
+        "severity": 38.272226420936676,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-11 11:42:24",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 29.230998693956558,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:42:46",
+        "disease": "UNKNOWN PLANT (Looks like Chilli)",
+        "severity": 33.376795154643325,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:43:11",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 42.497774093594884,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:43:29",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 55.93520251527965,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 11:43:49",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 44.00803323539137,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 12:00:26",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 42.497774093594884,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 12:00:36",
+        "disease": "UNKNOWN PLANT (Looks like Pumpkin)",
+        "severity": 44.00803323539137,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 12:00:54",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 99.98211290828948,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 12:01:06",
+        "disease": "Corn leaf blight",
+        "severity": 40.039641841141794,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 12:01:21",
+        "disease": "Corn rust leaf",
+        "severity": 16.19135199531729,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 12:01:33",
+        "disease": "UNKNOWN PLANT (Looks like Chilli)",
+        "severity": 29.90891872005933,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 12:01:44",
+        "disease": "Chilli_cercospora",
+        "severity": 27.403587952183585,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 12:02:07",
+        "disease": "UNKNOWN PLANT (Looks like Corn)",
+        "severity": 73.35459645715824,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-11 22:18:06",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 81.4820999198504,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-12 13:24:51",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 83.2358858385404,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-12 13:32:43",
+        "disease": "UNKNOWN PLANT (Looks like Chilli)",
+        "severity": 33.376795154643325,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-12 13:35:58",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 63.52008183883857,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-12 13:40:42",
+        "disease": "UNKNOWN PLANT (Looks like Pumpkin)",
+        "severity": 53.14931768824502,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-12 18:53:09",
+        "disease": "UNKNOWN PLANT (Looks like Pumpkin)",
+        "severity": 38.272226420936676,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-12 18:56:47",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 96.8398006493415,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-12 18:57:11",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 97.28943327021697,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-12 18:57:35",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 77.15522386437418,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-12 18:57:53",
+        "disease": "Corn leaf blight",
+        "severity": 57.45667252916648,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-12 18:59:12",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 94.61513388338622,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-12 18:59:39",
+        "disease": "Corn leaf blight",
+        "severity": 84.22361071480744,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-12 19:01:03",
+        "disease": "UNKNOWN PLANT (Looks like Chilli)",
+        "severity": 22.14926381712154,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-12 19:22:20",
+        "disease": "UNKNOWN PLANT (Looks like Chilli)",
+        "severity": 74.777910106152,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-12 19:22:58",
+        "disease": "UNKNOWN PLANT (Looks like Chilli)",
+        "severity": 87.19079014849417,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-12 19:23:26",
+        "disease": "Chilli_nutritional",
+        "severity": 79.93317674245549,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-12 19:24:23",
+        "disease": "UNKNOWN PLANT (Looks like Pumpkin)",
+        "severity": 58.01023616569751,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-12 19:24:56",
+        "disease": "UNKNOWN PLANT (Looks like Pumpkin)",
+        "severity": 12.316147936753602,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-12 19:26:08",
+        "disease": "UNKNOWN PLANT (Looks like Corn)",
+        "severity": 80.85667735031731,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-12 19:26:56",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 53.97725045738041,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-12 19:27:24",
+        "disease": "UNKNOWN PLANT (Looks like Corn)",
+        "severity": 52.792197987550296,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-12 19:28:37",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 62.3787610953248,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-12 19:30:32",
+        "disease": "Chilli_powdery mildew",
+        "severity": 69.75710347295917,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-12 19:31:01",
+        "disease": "Chilli_cercospora",
+        "severity": 53.34348837236441,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 07:44:56",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 99.21187481939614,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 07:45:27",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 29.230998693956558,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 07:45:40",
+        "disease": "UNKNOWN PLANT (Looks like Chilli)",
+        "severity": 41.08377668857891,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 07:47:10",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 99.9641210165419,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 09:57:57",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 93.23404000041381,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 09:58:14",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 96.6298744198714,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 09:58:43",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 99.54486880242047,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 09:59:04",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 26.4533290696537,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 09:59:30",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 82.84746752915481,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 10:00:38",
+        "disease": "Pumpkin Downy Mildew",
+        "severity": 80.55802376765273,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 10:00:58",
+        "disease": "UNKNOWN PLANT (Looks like Corn)",
+        "severity": 74.23032720930443,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 10:01:19",
+        "disease": "UNKNOWN PLANT (LOW CONFIDENCE)",
+        "severity": 81.38691472958574,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 10:01:53",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 98.08939681318962,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 10:02:11",
+        "disease": "Corn_(maize)___healthy",
+        "severity": 43.272651411571715,
+        "status": "HEALTHY"
+    },
+    {
+        "timestamp": "2026-04-13 11:36:00",
+        "disease": "Corn leaf blight",
+        "severity": 55.77993704138581,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 11:37:52",
+        "disease": "UNKNOWN: NOT A PLANT/LEAF",
+        "severity": 99.99893420075178,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 11:48:27",
+        "disease": "DOES NOT WORK (NOT A PLANT/LEAF)",
+        "severity": 99.99893420075178,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 11:51:05",
+        "disease": "DOES NOT WORK (NOT A PLANT/LEAF)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 11:51:31",
+        "disease": "DOES NOT WORK (NOT A PLANT/LEAF)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 11:51:44",
+        "disease": "DOES NOT WORK (Looks like Chilli)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 11:52:05",
+        "disease": "Chilli_cercospora",
+        "severity": 30.426820168618185,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 11:57:12",
+        "disease": "Corn_(maize)___Northern_Leaf_Blight",
+        "severity": 58.38513106443939,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 11:57:32",
+        "disease": "DOES NOT WORK (Looks like Chilli)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 12:20:30",
+        "disease": "DOES NOT WORK (UNKNOWN PLANT)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 12:21:19",
+        "disease": "DOES NOT WORK (NOT A PLANT/LEAF)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 12:23:36",
+        "disease": "DOES NOT WORK (NOT A PLANT/LEAF)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 12:23:58",
+        "disease": "Corn rust leaf",
+        "severity": 16.19135199531729,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 12:26:27",
+        "disease": "DOES NOT WORK (NOT A PLANT/LEAF)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 12:27:03",
+        "disease": "DOES NOT WORK (Looks like Okra)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 13:04:13",
+        "disease": "DOES NOT WORK (NOT A PLANT/LEAF)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 13:07:35",
+        "disease": "DOES NOT WORK (NOT A PLANT/LEAF)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 13:37:43",
+        "disease": "DOES NOT WORK (Looks like Chilli)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 13:37:49",
+        "disease": "DOES NOT WORK (Looks like Chilli)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 13:38:40",
+        "disease": "DOES NOT WORK (Looks like Pumpkin)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 13:40:12",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 42.497774093594884,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 13:40:19",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 42.497774093594884,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 13:45:54",
+        "disease": "DOES NOT WORK (Looks like Okra)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 13:46:15",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 53.39275007061005,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 13:48:32",
+        "disease": "DOES NOT WORK (NOT A PLANT/LEAF)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-04-13 14:00:18",
+        "disease": "DOES NOT WORK (NOT A PLANT/LEAF)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 09:20:50",
+        "disease": "Corn_(maize)___Northern_Leaf_Blight",
+        "severity": 52.006539665148864,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 09:21:15",
+        "disease": "DOES NOT WORK (NOT A PLANT/LEAF)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 09:26:59",
+        "disease": "DOES NOT WORK (NOT A PLANT/LEAF)",
+        "severity": 99.99893420075178,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 09:29:56",
+        "disease": "DOES NOT WORK (NOT A PLANT/LEAF)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 09:30:19",
+        "disease": "DOES NOT WORK (NOT A PLANT/LEAF)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 09:34:03",
+        "disease": "DOES NOT WORK (Looks like Chilli)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 09:34:48",
+        "disease": "DOES NOT WORK (UNKNOWN PLANT)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 09:37:46",
+        "disease": "Corn leaf blight",
+        "severity": 40.039641841141794,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 09:38:21",
+        "disease": "DOES NOT WORK (UNKNOWN PLANT)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 09:38:51",
+        "disease": "Corn rust leaf",
+        "severity": 86.64594353603636,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 09:39:21",
+        "disease": "DOES NOT WORK (Looks like Chilli)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 09:43:20",
+        "disease": "Corn leaf blight",
+        "severity": 40.039641841141794,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 09:43:30",
+        "disease": "DOES NOT WORK (Looks like Chilli)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 09:51:39",
+        "disease": "Corn leaf blight",
+        "severity": 83.2358858385404,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 09:51:50",
+        "disease": "Corn leaf blight",
+        "severity": 46.95366049561271,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 09:55:23",
+        "disease": "DOES NOT WORK (Looks like Chilli)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 09:57:16",
+        "disease": "Corn leaf blight",
+        "severity": 40.039641841141794,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 10:03:18",
+        "disease": "DOES NOT WORK (UNKNOWN/BLURRY)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 10:06:12",
+        "disease": "DOES NOT WORK (UNKNOWN/BLURRY)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 10:22:26",
+        "disease": "DOES NOT WORK (Looks like Chilli)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 10:26:46",
+        "disease": "DOES NOT WORK (Looks like Chilli)",
+        "severity": 30.426820168618185,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 10:26:58",
+        "disease": "DOES NOT WORK (Looks like Corn)",
+        "severity": 40.039641841141794,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 10:27:11",
+        "disease": "DOES NOT WORK (UNKNOWN PLANT)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 10:27:33",
+        "disease": "DOES NOT WORK (UNKNOWN PLANT)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 10:27:44",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 42.497774093594884,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-05 10:27:55",
+        "disease": "DOES NOT WORK (Looks like Pumpkin)",
+        "severity": 42.497774093594884,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-14 09:46:29",
+        "disease": "DOES NOT WORK (Looks like Chilli)",
+        "severity": 44.24197011999211,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-14 09:47:31",
+        "disease": "DOES NOT WORK (Looks like Chilli)",
+        "severity": 33.376795154643325,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-14 19:23:54",
+        "disease": "DOES NOT WORK (NOT A PLANT/LEAF)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-14 19:24:11",
+        "disease": "DOES NOT WORK (NOT A PLANT/LEAF)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-14 19:24:23",
+        "disease": "Corn leaf blight",
+        "severity": 40.039641841141794,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-14 19:24:58",
+        "disease": "Corn leaf blight",
+        "severity": 55.77993704138581,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-14 19:25:08",
+        "disease": "DOES NOT WORK (Looks like Corn)",
+        "severity": 80.94216721157245,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-14 19:25:31",
+        "disease": "Chilli_cercospora",
+        "severity": 30.426820168618185,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-14 19:25:48",
+        "disease": "DOES NOT WORK (Looks like Corn)",
+        "severity": 73.35459645715824,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-14 19:26:17",
+        "disease": "Chilli_nutritional",
+        "severity": 44.24197011999211,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-14 19:26:32",
+        "disease": "DOES NOT WORK (Looks like Okra)",
+        "severity": 43.0338468007532,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-14 19:26:46",
+        "disease": "Pumpkin Bacterial Leaf Spot",
+        "severity": 48.66241590505464,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-14 19:26:59",
+        "disease": "Pumpkin Mosaic Disease",
+        "severity": 69.81369367079667,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-14 19:27:13",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 42.497774093594884,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-14 19:27:24",
+        "disease": "DOES NOT WORK (NOT A PLANT/LEAF)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-14 19:27:36",
+        "disease": "DOES NOT WORK (NOT A PLANT/LEAF)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-14 19:27:48",
+        "disease": "DOES NOT WORK (Looks like Chilli)",
+        "severity": 41.08377668857891,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-14 19:28:29",
+        "disease": "DOES NOT WORK (Looks like Pumpkin)",
+        "severity": 53.39275007061005,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-14 19:29:43",
+        "disease": "DOES NOT WORK (Looks like Pumpkin)",
+        "severity": 29.230998693956558,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-14 19:29:54",
+        "disease": "Pumpkin Powdery_Mildew",
+        "severity": 42.497774093594884,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-14 21:11:39",
+        "disease": "DOES NOT WORK (NOT A PLANT/LEAF)",
+        "severity": 0.0,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-14 21:11:57",
+        "disease": "Corn leaf blight",
+        "severity": 40.039641841141794,
+        "status": "DISEASED"
+    },
+    {
+        "timestamp": "2026-05-14 21:21:13",
+        "disease": "Chilli_cercospora",
+        "severity": 48.322643983431604,
+        "status": "DISEASED"
+    }
+]
